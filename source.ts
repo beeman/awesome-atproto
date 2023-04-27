@@ -82,14 +82,15 @@ export const source: Category[] = [
       link('SoftLibATP', 'https://github.com/okomeki/SoftLibATP'),
     ]),
     links('Rust', [
-      //
       link('Bluesky API library', 'https://github.com/jesopo/bisky'),
+      link('The ATProto(Bluesky) api impl in Rust', 'https://github.com/sizumita/bsky-rs'),
     ]),
     links('Swift', [
       //
       link('Unofficial Bluesky/ATProto client in SwiftUI', 'https://github.com/rmcan/swiftsky.git'),
     ]),
     links('TypeScript', [
+      link('Example React Native app for AT Protocol', 'https://github.com/pfrazee/example-atproto-rn-app'),
       link('CLI tools for posting on bluesky', 'https://github.com/Jazzkid0/bsky-cli-tools'),
       link('Bluesky client for Mac, Linux and Windows', 'https://github.com/pram11/Jet'),
       link('Web client for Bluesky using Next.js', 'https://github.com/ajroberts0417/azure'),

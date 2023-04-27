@@ -58,6 +58,7 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 ### <a name='rust'></a> Rust
 
 - [Bluesky API library](https://github.com/jesopo/bisky)
+- [The ATProto(Bluesky) api impl in Rust](https://github.com/sizumita/bsky-rs)
 
 ### <a name='swift'></a> Swift
 
@@ -65,6 +66,7 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 
 ### <a name='typescript'></a> TypeScript
 
+- [Example React Native app for AT Protocol](https://github.com/pfrazee/example-atproto-rn-app)
 - [CLI tools for posting on bluesky](https://github.com/Jazzkid0/bsky-cli-tools)
 - [Bluesky client for Mac, Linux and Windows](https://github.com/pram11/Jet)
 - [Web client for Bluesky using Next.js](https://github.com/ajroberts0417/azure)
