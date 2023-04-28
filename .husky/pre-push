@@ -1,0 +1,4 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+yarn prettier --check '*.{js,json,css,scss,md,ts,html,graphql}'
