@@ -19,7 +19,9 @@ export function renderCategory(category: Category, indent = 0): string[] {
 
   const items = category?.links ?? []
   if (items.length) {
-    for (const items of category?.links ?? []) {
+    const sorted = items.sort((a, b) => a.label.localeCompare(b.label))
+
+    for (const items of sorted) {
       output.push(`- [${items.label}](${items.href}) ${items.source?.length ? `([source](${items.source}))` : ''}`)
     }
   }
