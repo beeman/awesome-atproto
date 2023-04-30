@@ -61,6 +61,7 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 
 ### <a name='rust'></a> Rust
 
+- [A command line tool for the Authenticated Transfer Protocol](https://github.com/nrempel/atp)
 - [A suite of libraries, tools, and daemons for atproto](https://github.com/ngerakines/atproto-rs)
 - [Bluesky API library](https://github.com/jesopo/bisky)
 - [The ATProto(Bluesky) api impl in Rust](https://github.com/sizumita/bsky-rs)
