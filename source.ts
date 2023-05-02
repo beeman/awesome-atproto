@@ -132,6 +132,7 @@ export const source: Category[] = [
       link('Bluesky Experiments', 'https://github.com/susumuota/bluesky-exp'),
       link('Bluesky Photo Test', 'https://github.com/robpc/bluesky-photo-test'),
       link('Practice Bluesky API (deno)', 'https://github.com/Neos21/practice-bsky'),
+      link('Template bot with GitHub Action to schedule posts', 'https://github.com/philnash/bsky-bot'),
     ]),
   ]),
   links('Tools', [

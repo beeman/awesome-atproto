@@ -94,6 +94,7 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 - [Bluesky Experiments](https://github.com/susumuota/bluesky-exp)
 - [Bluesky Photo Test](https://github.com/robpc/bluesky-photo-test)
 - [Practice Bluesky API (deno)](https://github.com/Neos21/practice-bsky)
+- [Template bot with GitHub Action to schedule posts](https://github.com/philnash/bsky-bot)
 
 ## <a name='tools'></a> Tools
 
