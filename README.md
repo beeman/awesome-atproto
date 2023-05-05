@@ -78,6 +78,7 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 - [CLI tools for posting on bluesky](https://github.com/Jazzkid0/bsky-cli-tools)
 - [Web client for Bluesky](https://blueskyweb.vercel.app/) ([source](https://github.com/fredabila/blueskyweb))
 - [Web client for Bluesky](https://flat-bs.vercel.app) ([source](https://github.com/sabigara/flat))
+- [Web client for Bluesky](https://kite.black/) ([source](https://github.com/callmearta/kite))
 - [Web client for Bluesky](https://github.com/angelocho/BlueSkyweb)
 - [Web client for Bluesky](https://treyp.github.io/nightsky) ([source](https://github.com/treyp/nightsky))
 - [Web client for Bluesky using Next.js](https://github.com/ajroberts0417/azure)

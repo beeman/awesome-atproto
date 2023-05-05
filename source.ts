@@ -122,6 +122,7 @@ export const source: Category[] = [
       link('Web client for Bluesky using Vue', 'https://at.syui.ai/', 'https://github.com/syui/at.syui.ai'),
       link('Web client for Bluesky', 'https://blueskyweb.vercel.app/', 'https://github.com/fredabila/blueskyweb'),
       link('Web client for Bluesky', 'https://flat-bs.vercel.app', 'https://github.com/sabigara/flat'),
+      link('Web client for Bluesky', 'https://kite.black/', 'https://github.com/callmearta/kite'),
       link('Web client for Bluesky', 'https://github.com/angelocho/BlueSkyweb'),
       link('Web client for Bluesky', 'https://treyp.github.io/nightsky', 'https://github.com/treyp/nightsky'),
     ]),
