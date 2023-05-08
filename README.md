@@ -33,6 +33,7 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 - [A nano implementation of the AT Protocol (Authenticated Transfer Protocol) for Python](https://github.com/susumuota/nanoatp)
 - [Easy-to-use and ergonomic library for interacting with bluesky](https://github.com/ianklatzco/atprototools)
 - [Python async bluesky client and TUI (eventually)](https://github.com/jbn/psychonaut)
+- [The AT Protocol SDK for Python](https://github.com/MarshalX/atproto)
 
 ### <a name='c-sharp'></a> C#
 

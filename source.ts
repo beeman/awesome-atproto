@@ -70,6 +70,7 @@ export const source: Category[] = [
         'Easy-to-use and ergonomic library for interacting with bluesky',
         'https://github.com/ianklatzco/atprototools',
       ),
+      link('The AT Protocol SDK for Python', 'https://github.com/MarshalX/atproto'),
     ]),
     links('C#', [
       //
