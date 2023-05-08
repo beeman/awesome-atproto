@@ -99,7 +99,6 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 
 ## <a name='tools'></a> Tools
 
-- []()
 - [A GitHub Action to post to Bluesky Social](https://github.com/zentered/bluesky-post-action)
 - [A GitHub Actions workflow to send a post to Bluesky](https://github.com/marketplace/actions/send-bluesky-post) ([source](https://github.com/myConsciousness/bluesky-post))
 - [Bluesky Follow Back All](https://jiftechnify.github.io/bsky-follow-back-all/) ([source](https://github.com/jiftechnify/bsky-follow-back-all))
@@ -112,6 +111,7 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 - [Schedule daily posts on Bluesky](https://github.com/alextoma1217/BlueskyAutoPost)
 - [Tool for copying someone else's follow list on Bluesky](https://jiftechnify.github.io/blue-mirage/) ([source](https://github.com/jiftechnify/blue-mirage))
 - [UX improvements for Bluesky web app (browser extension)](https://github.com/xenohunter/bluesky-overhaul)
+- [Bluesky-ESPHOME basic config](https://github.com/softplus/bluesky_esphome)
 
 [//]: <> (END_GENERATED_SECTION)
 
