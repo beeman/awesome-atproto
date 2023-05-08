@@ -99,10 +99,10 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 
 ## <a name='tools'></a> Tools
 
-- []()
 - [A GitHub Action to post to Bluesky Social](https://github.com/zentered/bluesky-post-action)
 - [A GitHub Actions workflow to send a post to Bluesky](https://github.com/marketplace/actions/send-bluesky-post) ([source](https://github.com/myConsciousness/bluesky-post))
 - [Bluesky Follow Back All](https://jiftechnify.github.io/bsky-follow-back-all/) ([source](https://github.com/jiftechnify/bsky-follow-back-all))
+- [Bluesky-ESPHOME basic config](https://github.com/softplus/bluesky_esphome)
 - [Combine your Twitter and Bluesky feeds into one](https://test-maker-khaki.vercel.app/) ([source](https://github.com/devyboy/Skybird))
 - [Generate embeddable link previews to posts on Bluesky](https://github.com/capjamesg/bsky-link-preview)
 - [Japanese ATProto Docs](https://github.com/encrypteduse/atproto-website-docs-jp)

@@ -137,7 +137,6 @@ export const source: Category[] = [
     ]),
   ]),
   links('Tools', [
-    link('', '', ''),
     link(
       'A GitHub Actions workflow to send a post to Bluesky',
       'https://github.com/marketplace/actions/send-bluesky-post',
@@ -173,5 +172,6 @@ export const source: Category[] = [
       "NightSky is a browser extension that transforms your BlueSky social experience into a sleek, dark interface that's easy on the eyes",
       'https://github.com/asamaree/NightSky',
     ),
+    link('Bluesky-ESPHOME basic config', 'https://github.com/softplus/bluesky_esphome'),
   ]),
 ]
