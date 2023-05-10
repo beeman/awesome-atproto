@@ -19,6 +19,7 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 - [Bot that posts food safety notices from the UK Food Standards Agency to your Bluesky feed](https://github.com/lovelaced/bluesky-food-safety-bot)
 - [Bot that posts limericks](https://staging.bsky.app/profile/limerick.bot.gar.lol) ([source](https://github.com/rothos/limerickbot))
 - [Bot to send hugs to other users on bluesky](https://github.com/haideralipunjabi/bluesky-hugfairy)
+- [GPT3.5-powered bot that posts Zen koans](https://github.com/trozzelle/koanbot)
 - [Just follow people in Bluesky Social](https://github.com/myConsciousness/bluesky-follow-bot)
 - [Some bot programs for the bluesky network](https://github.com/whyrusleeping/bskybots)
 
@@ -111,6 +112,7 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 - [Post new words used in my blog posts to Bluesky.](https://github.com/capjamesg/newwords)
 - [RSS feed generator for Bluesky](https://bluestream.deno.dev/) ([source](https://github.com/kawarimidoll/bluestream))
 - [Schedule daily posts on Bluesky](https://github.com/alextoma1217/BlueskyAutoPost)
+- [Script to block spam accounts that follow you](https://github.com/trozzelle/sunblock)
 - [Tool for copying someone else's follow list on Bluesky](https://jiftechnify.github.io/blue-mirage/) ([source](https://github.com/jiftechnify/blue-mirage))
 - [UX improvements for Bluesky web app (browser extension)](https://github.com/xenohunter/bluesky-overhaul)
 

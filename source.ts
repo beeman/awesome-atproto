@@ -47,6 +47,7 @@ export const source: Category[] = [
       'https://staging.bsky.app/profile/spells.bsky.social',
       'https://github.com/MichaelPriebe/emoji-spells-bot',
     ),
+    link('GPT3.5-powered bot that posts Zen koans', 'https://github.com/trozzelle/koanbot'),
   ]),
   links('Data visualization and analysis', [
     link(
@@ -174,5 +175,6 @@ export const source: Category[] = [
       'https://github.com/asamaree/NightSky',
     ),
     link('Bluesky-ESPHOME basic config', 'https://github.com/softplus/bluesky_esphome'),
+    link('Script to block spam accounts that follow you', 'https://github.com/trozzelle/sunblock'),
   ]),
 ]
