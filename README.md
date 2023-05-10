@@ -21,6 +21,7 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 - [Bot to send hugs to other users on bluesky](https://github.com/haideralipunjabi/bluesky-hugfairy)
 - [Just follow people in Bluesky Social](https://github.com/myConsciousness/bluesky-follow-bot)
 - [Some bot programs for the bluesky network](https://github.com/whyrusleeping/bskybots)
+- [GPT3.5-powered bot that posts Zen koans](https://github.com/trozzelle/koanbot)
 
 ## <a name='data-visualization-and-analysis'></a> Data visualization and analysis
 
@@ -113,6 +114,7 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 - [Schedule daily posts on Bluesky](https://github.com/alextoma1217/BlueskyAutoPost)
 - [Tool for copying someone else's follow list on Bluesky](https://jiftechnify.github.io/blue-mirage/) ([source](https://github.com/jiftechnify/blue-mirage))
 - [UX improvements for Bluesky web app (browser extension)](https://github.com/xenohunter/bluesky-overhaul)
+- [Script to block spam accounts that follow you](https://github.com/trozzelle/sunblock)
 
 [//]: <> (END_GENERATED_SECTION)
 
