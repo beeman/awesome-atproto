@@ -113,6 +113,11 @@ export const source: Category[] = [
       link('Bluesky Expo client', 'https://github.com/jonsamp/bluesky-expo'),
       link('Bluesky React Native Example app for AT Protocol', 'https://github.com/pfrazee/example-atproto-rn-app'),
       link('CLI tools for posting on bluesky', 'https://github.com/Jazzkid0/bsky-cli-tools'),
+      link(
+        'The Bluesky Social application for Web, iOS, and Android (Official client)',
+        'https://staging.bsky.app/',
+        'https://github.com/bluesky-social/social-app',
+      ),
       link('Web client for Bluesky using Next.js', 'https://github.com/ajroberts0417/azure'),
       link('Web client for Bluesky using Next.js', 'https://github.com/KingYoSun/boobeeblue'),
       link('Web client for Bluesky using Svelte', 'https://github.com/tautologer/poastbox'),

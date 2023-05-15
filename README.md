@@ -78,6 +78,7 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 - [Bluesky Expo client](https://github.com/jonsamp/bluesky-expo)
 - [Bluesky React Native Example app for AT Protocol](https://github.com/pfrazee/example-atproto-rn-app)
 - [CLI tools for posting on bluesky](https://github.com/Jazzkid0/bsky-cli-tools)
+- [The Bluesky Social application for Web, iOS, and Android (Official client)](https://staging.bsky.app/) ([source](https://github.com/bluesky-social/social-app))
 - [Web client for Bluesky](https://blueskyweb.vercel.app/) ([source](https://github.com/fredabila/blueskyweb))
 - [Web client for Bluesky](https://flat-bs.vercel.app) ([source](https://github.com/sabigara/flat))
 - [Web client for Bluesky](https://kite.black/) ([source](https://github.com/callmearta/kite))
