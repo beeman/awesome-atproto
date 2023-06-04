@@ -20,7 +20,6 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 - [Bot that posts limericks](https://staging.bsky.app/profile/limerick.bot.gar.lol) ([source](https://github.com/rothos/limerickbot))
 - [Bot to send hugs to other users on bluesky](https://github.com/haideralipunjabi/bluesky-hugfairy)
 - [GPT3.5-powered bot that posts Zen koans](https://github.com/trozzelle/koanbot)
-- [Just follow people in Bluesky Social](https://github.com/myConsciousness/bluesky-follow-bot)
 - [Some bot programs for the bluesky network](https://github.com/whyrusleeping/bskybots)
 
 ## <a name='data-visualization-and-analysis'></a> Data visualization and analysis
