@@ -116,6 +116,7 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 - [Script to block spam accounts that follow you](https://github.com/trozzelle/sunblock)
 - [Tool for copying someone else's follow list on Bluesky](https://jiftechnify.github.io/blue-mirage/) ([source](https://github.com/jiftechnify/blue-mirage))
 - [UX improvements for Bluesky web app (browser extension)](https://github.com/xenohunter/bluesky-overhaul)
+- [A simple command line tool to create text posts](https://crates.io/crates/skeet) ([source](https://github.com/sharunkumar/skeet))
 
 [//]: <> (END_GENERATED_SECTION)
 
