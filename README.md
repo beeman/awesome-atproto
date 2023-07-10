@@ -71,6 +71,10 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 
 - [Unofficial Bluesky/ATProto client in SwiftUI](https://github.com/rmcan/swiftsky.git)
 
+### <a name='elixir'></a> Elixir
+
+- [Implementation of the ATProtocol client spec in Elixir](https://github.com/moomerman/atproto)
+
 ### <a name='typescript'></a> TypeScript
 
 - [Bluesky client for Mac, Linux and Windows](https://github.com/pram11/Jet)
@@ -78,6 +82,7 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 - [Bluesky React Native Example app for AT Protocol](https://github.com/pfrazee/example-atproto-rn-app)
 - [CLI tools for posting on bluesky](https://github.com/Jazzkid0/bsky-cli-tools)
 - [The Bluesky Social application for Web, iOS, and Android (Official client)](https://staging.bsky.app/) ([source](https://github.com/bluesky-social/social-app))
+- [ATProto Feed Generator Starter Kit](https://github.com/bluesky-social/feed-generator)
 - [Web client for Bluesky](https://blueskyweb.vercel.app/) ([source](https://github.com/fredabila/blueskyweb))
 - [Web client for Bluesky](https://flat-bs.vercel.app) ([source](https://github.com/sabigara/flat))
 - [Web client for Bluesky](https://kite.black/) ([source](https://github.com/callmearta/kite))
