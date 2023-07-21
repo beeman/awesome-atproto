@@ -123,6 +123,12 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 - [UX improvements for Bluesky web app (browser extension)](https://github.com/xenohunter/bluesky-overhaul)
 - [A simple command line tool to create text posts](https://crates.io/crates/skeet) ([source](https://github.com/sharunkumar/skeet))
 
+## <a name='videos'></a> Videos
+
+- [ActivityPub vs AT Protocol](https://youtu.be/wJBCpzM1VfM)
+- [Is Bluesky fediverse, web3, or blockchain?](https://youtu.be/qI7LR6FSLrI)
+- [Use a custom domain as username in Bluesky](https://youtu.be/lP3OVCwyqJA)
+
 [//]: <> (END_GENERATED_SECTION)
 
 ## Contribute
