@@ -2,6 +2,22 @@ import { linkGroup, link, links } from './lib/helpers'
 import { Category } from './lib/types'
 
 export const source: Category[] = [
+  links('Apps and Services', [
+    link(
+      'Smoke Signal, an event and RSVP management system',
+      'https://smokesignal.events',
+    ),
+    link(
+      'Frontpage, a federated link aggregator',
+      'https://frontpage.fyi',
+      'https://github.com/likeandscribe/unravel'
+    ),
+    link(
+      'WhiteWind, a blogging platform',
+      'https://whtwnd.com',
+      'https://github.com/whtwnd/whitewind-blog'
+    )
+  ]),
   links('Bots', [
     link(
       'Bot that posts a haiku every 15 minutes on Bluesky!',
