@@ -18,6 +18,7 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 - [Bot that posts earthquakes of 5.0+ magnitude](https://staging.bsky.app/profile/earthquake.bsky.social) ([source](https://github.com/emilyliu7321/bsky-earthquake-bot))
 - [Bot that posts food safety notices from the UK Food Standards Agency to your Bluesky feed](https://github.com/lovelaced/bluesky-food-safety-bot)
 - [Bot that posts limericks](https://staging.bsky.app/profile/limerick.bot.gar.lol) ([source](https://github.com/rothos/limerickbot))
+- [Bot that posts AI generated cocktail recipes once a day](https://bsky.app/profile/bargpt.app)
 - [Bot to send hugs to other users on bluesky](https://github.com/haideralipunjabi/bluesky-hugfairy)
 - [GPT3.5-powered bot that posts Zen koans](https://github.com/trozzelle/koanbot)
 - [Some bot programs for the bluesky network](https://github.com/whyrusleeping/bskybots)
