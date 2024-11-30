@@ -85,6 +85,7 @@ export const source: Category[] = [
       link('Bluesky Go Library', 'https://github.com/PiccoloMondoC/bluesky'),
       link('CLI Application for Bluesky Social', 'https://github.com/mattn/bsky'),
       link('Simple golang firehose for Bluesky', 'https://github.com/CharlesDardaman/blueskyfirehose'),
+      link('Bluesky bot development made easy', 'https://github.com/watzon/lining'),
     ]),
     links('Java', [
       link('Bluesky/ATProtocol client for java', 'https://github.com/uakihir0/bsky4j'),
