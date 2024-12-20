@@ -25,6 +25,7 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 ## <a name='data-visualization-and-analysis'></a> Data visualization and analysis
 
 - [Bluesky Heatmap](https://bluesky-heatmap.fly.dev/) ([source](https://github.com/aliceisjustplaying/bluesky-heatmap))
+- [Realtime Bluesky Metrics](https://realtime.blue)
 
 ## <a name='clients-and-libraries'></a> Clients and Libraries
 
