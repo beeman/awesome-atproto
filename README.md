@@ -21,6 +21,7 @@ Sourced from [here](https://docs.google.com/spreadsheets/d/1OBvKfGsIpZGP6mwAatqV
 - [Bot to send hugs to other users on bluesky](https://github.com/haideralipunjabi/bluesky-hugfairy)
 - [GPT3.5-powered bot that posts Zen koans](https://github.com/trozzelle/koanbot)
 - [Some bot programs for the bluesky network](https://github.com/whyrusleeping/bskybots)
+- [Your Bluesky Year-Progress Bot 🤖](https://bsky.app/profile/yearprogress.blue)
 
 ## <a name='data-visualization-and-analysis'></a> Data visualization and analysis
 
